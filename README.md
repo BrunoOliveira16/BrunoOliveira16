@@ -8,5 +8,5 @@
 
 - 👯 I’m looking to collaborate on Front-End.
 
-- 📫 How to reach me (https://www.linkedin.com/in/josebrunofonseca-desenvolvedor-full-stack/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/josebrunofonseca-desenvolvedor-full-stack/)
 
