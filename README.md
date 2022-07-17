@@ -1,12 +1,13 @@
-### Hi there 👋
+### Olá! 👋
 
-- 💻 I'm an exact (data-driven) professional with a career in Engineering and passionate about Technology.
+- 💻 Sou profissional de exatas (data-driven) com carreira em Engenharia e apaixonado por Tecnologia.
 
-- 📈 I’m currently learning:
-- HTML, CSS, Java Script and Python languages.
-- Test development with Django, Postgres and APIs and SQL database.
+- 📈 Dentre algumas hard skills que estou evoluindo:
+• Linguagens HTML, CSS, Java Script e Python. 
+• Desenvolvimento de testes com Django, Postgres e APIs e banco de dados SQL.
 
-- 👯 I’m looking to collaborate on Front-End.
+- 👯 Estou buscando colaborar no Front-End.
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/josebrunofonseca-desenvolvedor-full-stack/)
+- 📫 Para entrar em contato visite:[LinkedIn](https://www.linkedin.com/in/josebrunofonseca-desenvolvedor-full-stack/)
 
+- 🎮 Gosto de Video Games, séries e animes e sou um entusiasta do mercado financeiro.
