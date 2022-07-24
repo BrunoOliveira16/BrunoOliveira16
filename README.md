@@ -10,6 +10,6 @@
 
 - 👯 Estou buscando colaborar no Front-End.
 
-- 📫 Para entrar em contato visite: [LinkedIn](linkedin.com/in/bruno-oliveira1608/)
+- 📫 Para entrar em contato visite: [[LinkedIn](https://www.linkedin.com/in/bruno-oliveira1608/)
 
 - 🎮 Gosto de Video Games, séries e animes e sou um entusiasta do mercado financeiro.
