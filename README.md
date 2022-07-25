@@ -3,10 +3,13 @@
 - 💻 Sou profissional de exatas (data-driven) com carreira em Engenharia e apaixonado por Tecnologia.
 
 - 📈 Dentre algumas hard skills que estou evoluindo:
-- HTML;
-- CSS;
-- JavaScript;
-- Python;
+HTML;
+
+CSS;
+
+JavaScript;
+
+Python;
 
 - 👯 Estou buscando colaborar no Front-End.
 
