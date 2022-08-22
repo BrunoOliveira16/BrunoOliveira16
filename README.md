@@ -4,13 +4,8 @@
 
 📈 Dentre algumas hard skills que estou evoluindo:
 
-    HTML;
+    HTML | CSS | JavaScript | Bootstrap | jQuery
 
-    CSS;
-
-    JavaScript;
-
-    Python;
 
 👯 Estou buscando colaborar no Front-End.
 
