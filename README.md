@@ -11,7 +11,9 @@
 
 👯 Estou buscando colaborar no Front-End e futuramente no Back-End.
 
-📫 Para entrar em contato visite: [LinkedIn](https://www.linkedin.com/in/bruno-oliveira1608/)
+🌎 Onde me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-oliveira1608/)
+
+[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira16-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-oliveira1608/)]([https://www.linkedin.com/in/bruno-oliveira1608/])
 
 🎮 apaixonado por tecnologia gosto de Video Games, séries e animes e sou um entusiasta do mercado financeiro.
 
