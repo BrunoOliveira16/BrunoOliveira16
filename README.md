@@ -16,7 +16,7 @@
 
 🌎 Onde me encontrar:
 
-[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-Bruno Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bruno-oliveira1608/)
+[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bruno-oliveira1608/)
 
 🎮 apaixonado por tecnologia gosto de Video Games, séries e animes e sou um entusiasta do mercado financeiro.
 
