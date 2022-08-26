@@ -15,4 +15,6 @@
 
 🎮 apaixonado por tecnologia gosto de Video Games, séries e animes e sou um entusiasta do mercado financeiro.
 
-[![BrunoOliveira16](https://github-readme-stats.vercel.app/api?username=BrunoOliveira16&theme=default)](https://github.com/BrunoOliveira16/)
+[![BrunoOliveira16](https://github-readme-stats.vercel.app/api?username=BrunoOliveira16&theme=highcontrast)](https://github.com/BrunoOliveira16/)
+
+[![BrunoOliveira16](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOliveira16&hide=html&layout=compact&theme=highcontrast)](https://github.com/BrunoOliveira16/)
