@@ -2,7 +2,9 @@
 
 👨🏻‍🎓 Graduado em engenharia de produção, estou cursando pós em analise e desenvolvimento de software e desenvolvimento Full Stack.
 
+
 💻 Sou um profissional com experiência na área de engenharia e automação com uma forte orientação a dados e resolução de problemas.
+
 
 📈 Dentre algumas hard skills que estou evoluindo:
 
@@ -11,9 +13,10 @@
 
 👯 Estou buscando colaborar no Front-End e futuramente no Back-End.
 
+
 🌎 Onde me encontrar:
 
-[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bruno-oliveira1608/)
+[![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-Bruno Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/bruno-oliveira1608/)
 
 🎮 apaixonado por tecnologia gosto de Video Games, séries e animes e sou um entusiasta do mercado financeiro.
 
