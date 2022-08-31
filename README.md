@@ -22,4 +22,4 @@
 
 [![BrunoOliveira16](https://github-readme-stats.vercel.app/api?username=BrunoOliveira16&theme=highcontrast)](https://github.com/BrunoOliveira16/)
 
-[![BrunoOliveira16](https://github-readme-stats.vercel.app/api/langs/?username=BrunoOliveira16&hide=html&layout=compact&theme=highcontrast)](https://github.com/BrunoOliveira16/)
+[![BrunoOliveira16](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOliveira16&hide=html&layout=compact&theme=highcontrast)](https://github.com/BrunoOliveira16/)
