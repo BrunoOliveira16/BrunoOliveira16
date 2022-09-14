@@ -1,6 +1,6 @@
 ### Olá! Sou o Bruno, natural do Rio de janeiro 👋
 
-👨🏻‍🎓 Graduado em engenharia de produção, estou cursando pós em analise e desenvolvimento de software e desenvolvimento Full Stack.
+👨🏻‍🎓 Graduado em engenharia de produção, estou cursando minha segunda graduação em Ciência da Computação e realizando um curso complementar em desenvolvimento Full Stack.
 
 
 💻 Sou um profissional com experiência na área de engenharia e automação com uma forte orientação a dados e resolução de problemas.
