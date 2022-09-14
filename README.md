@@ -8,7 +8,7 @@
 
 📈 Dentre algumas hard skills que estou evoluindo:
 
-    HTML | CSS | JavaScript | Bootstrap | jQuery | Gulp | Sass
+    HTML | CSS | JavaScript | Bootstrap | jQuery | Gulp | Sass | WebPack
 
 
 👯 Estou buscando colaborar no Front-End e futuramente no Back-End.
