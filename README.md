@@ -1,17 +1,14 @@
 ### Olá! Sou o Bruno, natural do Rio de janeiro 👋
 
-👨🏻‍🎓 Graduado em engenharia de produção, estou cursando minha segunda graduação em Ciência da Computação e realizando um curso complementar em desenvolvimento Full Stack.
+👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full Stack Python na EBAC.
 
 
-💻 Sou um profissional com experiência na área de engenharia e automação com uma forte orientação a dados e resolução de problemas.
+💻 Sou apaixonado por tecnologia e minha preferência é pela área de desenvolvimento web e busco evoluir tanto no front-end quanto back-end.
 
 
-📈 Dentre algumas hard skills que estou evoluindo:
+📈 Dentre algumas tecnologias que estou evoluindo:
 
     React | HTML | CSS | JavaScript | Bootstrap | jQuery | Gulp | Sass | WebPack 
-
-
-👯 Estou buscando colaborar no Front-End e futuramente no Back-End.
 
 
 🌎 Onde me encontrar:
