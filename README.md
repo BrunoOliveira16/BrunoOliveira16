@@ -8,7 +8,7 @@
 
 📈 Dentre algumas tecnologias que estou evoluindo:
 
-    Python | React | HTML | CSS | JavaScript | Bootstrap | jQuery | Gulp | Sass | WebPack 
+    Python | React | HTML | CSS | JavaScript | Bootstrap | Sass | jQuery | Gulp | WebPack 
 
 
 🌎 Onde me encontrar:
