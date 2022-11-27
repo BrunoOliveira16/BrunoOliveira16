@@ -3,7 +3,7 @@
 👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full Stack Python na EBAC.
 
 
-💻 Sou apaixonado por tecnologia e minha preferência é pela área de desenvolvimento web e busco evoluir tanto no front-end quanto back-end.
+💻 Sou apaixonado por tecnologia e minha preferência é pela área de desenvolvimento web, buscando evoluir tanto no front-end quanto back-end.
 
 
 📈 Dentre algumas tecnologias que estou evoluindo:
