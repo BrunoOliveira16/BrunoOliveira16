@@ -41,3 +41,9 @@
 [![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-oliveira1608/)](https://www.linkedin.com/in/bruno-oliveira1608/)
 [![Gmail Badge](https://img.shields.io/badge/-MeuGmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.hunterRj@gmail.com)](mailto:bruno.hunterRj@gmail.com)
 [![GitHub BrunoOliveira]( https://img.shields.io/github/followers/BrunoOliveira16?label=follow&style=social)](https://github.com/BrunoOliveira16)
+
+![Snake animation](https://github.com/BrunoOliveira16/BrunoOliveira16/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1424C0&height=120&section=footer"/>
