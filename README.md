@@ -31,4 +31,4 @@
 
 [![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-oliveira1608/)](https://www.linkedin.com/in/bruno-oliveira1608/)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.hunterRj@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.hunterRj@gmail.com)](mailto:bruno.hunterRj@gmail.com)
-[![GitHub BrunoOliveira]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/BrunoOliveira16)
+[![GitHub BrunoOliveira]( https://img.shields.io/github/followers/BrunoOliveira16?label=follow&style=social)](https://github.com/BrunoOliveira16)
