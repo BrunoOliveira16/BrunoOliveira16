@@ -42,7 +42,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-MeuGmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.hunterRj@gmail.com)](mailto:bruno.hunterRj@gmail.com)
 [![GitHub BrunoOliveira]( https://img.shields.io/github/followers/BrunoOliveira16?label=follow&style=social)](https://github.com/BrunoOliveira16)
 
-![Snake animation](https://github.com/BrunoOliveira16/BrunoOliveira16/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
