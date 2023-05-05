@@ -29,9 +29,9 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 <div align="center">
-    <img height="138em" src="https://github-readme-stats.vercel.app/api?username=BrunoOliveira16&theme=highcontrast&show_icons=true">
-    <img height="138em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoOliveira16&theme=highcontrast&show_icons=true"></a>&nbsp;
-    <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOliveira16&theme=highcontrast&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoOliveira16&theme=highcontrast&layout=compact&langs_count=16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoOliveira16&theme=highcontrast&show_icons=true">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoOliveira16&theme=highcontrast&show_icons=true"></a>&nbsp;
 </div>
 
 <br>
