@@ -9,7 +9,7 @@
 
 👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full-Stack na EBAC.
 
-💻 Apaixonado por tecnologia e pela área de desenvolvimento web, buscando evoluir tanto no front-end quanto back-end.
+💻 Apaixonado por tecnologia e pela área de desenvolvimento mobile e web, buscando evoluir tanto no front-end quanto back-end.
 
 🎮 Gosto de Video Games, séries, animes, sou um entusiasta do mercado financeiro e curto futebol.
 
