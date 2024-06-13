@@ -6,8 +6,9 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <br>
+💼 Atualmente trabalho como desenvolvedor mobile react-native em uma grande empresa de sass.
 
-👨🏻‍🎓 Estudante de graduação em Ciência da Computação e realizando curso complementar em desenvolvimento Full-Stack na EBAC.
+👨🏻‍🎓 Estudante de graduação em Ciência da Computação.
 
 💻 Apaixonado por tecnologia e pela área de desenvolvimento mobile e web, buscando evoluir tanto no front-end quanto back-end.
 
