@@ -38,6 +38,11 @@
 
 <br>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrunoOliveira16}/count.svg" /></p> 
+<br></div>
+
 ## ✉ Onde me encontrar:
 
 [![Linkedin: Bruno Oliveira](https://img.shields.io/badge/-BrunoOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-oliveira-front-end/)](https://www.linkedin.com/in/bruno-oliveira-front-end/)
